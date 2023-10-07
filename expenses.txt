@@ -1,0 +1,6 @@
+rent:588
+gas:477
+food:325.14
+clothing:125.12
+car_payment:350
+misc:114.29
